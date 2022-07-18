@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @fauzanhaki
+### 👋 Hi there, I’m @fauzanhaki
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning front-end 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : instagram > fauzan.baehaqi
+- 📫 How to reach me : instagram @fauzan.baehaqi
 
 <!---
 fauzanhaki/fauzanhaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
