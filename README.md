@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Fauzan ✨
 
-  I'm Fauzan from Indonesia, I'm learning website development with web and youtube, I do content personal project Design and Development. I really enjoy learning languages and framworks, as well I study at Amikom University.
+  I'm Fauzan from Indonesia, I really enjoy learning languages and framworks, as well I study at Amikom University.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fauzanhaki&show_icons=true&theme=radical)
 - 👀 I’m interested in web development 
